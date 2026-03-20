@@ -1,0 +1,11 @@
+torch
+torchaudio
+transformers
+datasets
+accelerate
+evaluate
+soundfile
+sentencepiece
+torchcodec
+tensorboard
+jiwer

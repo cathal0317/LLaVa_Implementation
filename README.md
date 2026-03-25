@@ -1,5 +1,4 @@
-# Speech-to-LLaMA: A LLaVA-Style Implementation for ASR
-
+# Multimodal Speech-to-LLaMA: LLaVA-Style 
 This repository contains a simple LLaVA-style implementation in the speech domain.  
 The project explores how a pretrained speech encoder can be aligned with a pretrained language model using a lightweight projection module for automatic speech recognition.
 
